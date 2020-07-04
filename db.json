@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "olivier@gmail.com",
+      "password": "$2a$10$PCW43Tdo.6U4sZxbqkSArOo8aELmrZVz8Ayk2aYkposb6dxbfeMw.",
+      "id": 1
+    },
+    {
+      "email": "francis@gmail.com",
+      "password": "$2a$10$m4X0/kwUrTgUeQKQLKWWTuidVNk1T/bLGlQzSBbippab545zqWUJS",
+      "id": 2
+    },
+    {
+      "email": "francis1@gmail.com",
+      "password": "$2a$10$UvfESv0rlNoxBStTysOGAetsbKJAZMhb1GFLMC5Ew2SeHD2zYDxVu",
+      "id": 3
+    },
+    {
+      "email": "francis2@gmail.com",
+      "password": "$2a$10$2rK2X91.QhaqcgZcvfb9duPuAcAs8hZtQ4fFLES5CAv7nTfYmEMiS",
+      "id": 4
+    },
+    {
+      "email": "francis10@gmail.com",
+      "password": "$2a$10$TxJPhvPfpze280Dqc3fadePrIFpO9YonVDSNccFXdPYlsRtGS5n8a",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "title": "Anther post title.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "id": 1
+    },
+    {
+      "title": "Dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "id": 2
+    }
+  ]
+}
